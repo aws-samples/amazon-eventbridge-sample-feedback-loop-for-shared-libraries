@@ -40,7 +40,7 @@ In a real world scenario the used git repo for the library consumer would reside
 ### Pushing the code to CodeCommit
 From a console which uses the credentials necessary to push to the Consumer Account's CodeCommit:
 ```
-cd library/consumer/library
+cd library_consumer/library
 git init
 git add .
 git commit -m "Initial Commit"
