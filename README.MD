@@ -1,6 +1,6 @@
 # Keeping up with your dependencies: building a feedback loop for shared libraries
-This repo accompanies the blog post "Keeping up with your dependencies: building a feedback loop for shared libraries" available at <LINK_TO_BLOG_POST>.
-For a detailed description of the whole solution please refer to the blog post.
+This repo accompanies the blog post "Keeping up with your dependencies: building a feedback loop for shared libraries" available at https://aws.amazon.com/blogs/devops/keeping-up-with-your-dependencies-building-a-feedback-loop-for-shared-libraries.
+For a detailed description of the whole solution please refer to [the post on the AWS DevOps Blog](https://aws.amazon.com/blogs/devops/keeping-up-with-your-dependencies-building-a-feedback-loop-for-shared-libraries).
 
 ## Overview
 
